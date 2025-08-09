@@ -87,6 +87,8 @@ Accessing the dark web is not inherently illegal, but many jurisdictions regulat
 - Disposable environments
 - Strict operational security protocols
 
+Last Updated: Aug 7 2025
+
 ## Legal Disclaimer
 
 This project does not endorse or facilitate any illegal activities. All research is conducted within ethical boundaries and legal frameworks. The DarkMatter Darknet repository is for educational purposes only.
